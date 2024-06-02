@@ -112,9 +112,9 @@
             <tbody>
                 <?php
                 //connect to database
-                $servername = "database-5.cj6cmko8cd98.ap-south-1.rds.amazonaws.com";
-                $username = "root";
-                $password = "rdsuser123";
+                $servername = "localhost";
+                $username = "admin";
+                $password = "user123";
                 $database = "php";
 
                 //Create Connection
